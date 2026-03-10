@@ -1,0 +1,9 @@
+{
+  "name": "baoyu-danger-gemini-web-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^22.0.0"
+  }
+}

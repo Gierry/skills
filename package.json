@@ -1,0 +1,14 @@
+{
+  "name": "helleai-skills",
+  "version": "1.0.0",
+  "description": "helleAI skills collection",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
